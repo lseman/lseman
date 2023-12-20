@@ -19,5 +19,5 @@ I'm open to collaborative projects and research opportunities. If you're interes
 
 ### 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lseman&show_icons=true)
 
