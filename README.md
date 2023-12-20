@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a researcher and academic with a strong focus 
 
 ### 🤝 Collaboration
 
-I'm open to collaborative projects and research opportunities. If you're interested in combining efforts in Operations Research and Machine Learning, especially in Electrical Engineering contexts, feel free to reach out!
+I'm open to collaborative projects and research opportunities. If you're interested in combining efforts in Operations Research and Machine Learning, especially in decomposition contexts, feel free to reach out!
 
 ### 📫 How to Reach Me
 
