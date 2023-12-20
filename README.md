@@ -1,7 +1,5 @@
 # Hello, I'm Laio O. Seman!
 
-## 👨‍🎓 PhD in Electrical Engineering
-
 Welcome to my GitHub profile! I'm a researcher and academic with a strong focus on Operations Research and Machine Learning.
 
 ### 🚀 My Research Interests
