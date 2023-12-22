@@ -16,6 +16,10 @@ Welcome to my GitHub profile! I'm a researcher and academic with a strong focus 
 
 I'm open to collaborative projects and research opportunities. If you're interested in combining efforts in Operations Research and Machine Learning, especially in decomposition contexts, feel free to reach out!
 
+### Publications
+
+Google Scholar: https://scholar.google.com.br/citations?user=PFcaR_MAAAAJ
+
 ### How to Reach Me
 
 - **Email:** laio [at] gos.ufsc.br
