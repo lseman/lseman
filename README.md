@@ -3,10 +3,6 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=PFcaR_MAAAAJ) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laio-seman/)
-[![Email](https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laio@gos.ufsc.br)
-
 
 Welcome to my GitHub profile! I'm a researcher and academic with a strong focus on Operations Research and Machine Learning.
 
@@ -26,7 +22,7 @@ I'm open to collaborative projects and research opportunities. If you're interes
 
 ### Publications
 
-Google Scholar: https://scholar.google.com.br/citations?user=PFcaR_MAAAAJ
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?user=PFcaR_MAAAAJ) 
 
 ### How to Reach Me
 
